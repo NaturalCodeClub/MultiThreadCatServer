@@ -28,4 +28,4 @@ jobs:
     - name: set up the code and patch
       run: unzip patches.zip && unzip src.zip
     - name: build
-      run: ./gradlew setup genPatches build
+      run: chmod 777 gradlew && ./gradlew setup genPatches build
