@@ -6,3 +6,6 @@ windows:解压patches.zip和src.zip后cmd运行gradlew.bat setup genPatches buil
 两者运行完后jar可以在build/distributions中找到
 
 [![MultiThreadCS Build Task](https://github.com/NaturalGroup/MultiThreadCatServer/actions/workflows/gradle.yml/badge.svg)](https://github.com/NaturalGroup/MultiThreadCatServer/actions/workflows/gradle.yml)
+
+### 注意：
+本插件已迁移，新地址: https://github.com/eelibrary/skylight
